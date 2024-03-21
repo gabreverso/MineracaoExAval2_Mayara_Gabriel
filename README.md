@@ -6,10 +6,10 @@ Este repositório contém códigos em Python para treinar modelos de classifica�
 
 Certifique-se de ter o Python instalado em sua máquina. Você pode baixá-lo em [python.org](https://www.python.org/downloads/).
 
-Além disso, instale as dependências necessárias usando o arquivo `requirements.txt`:
+Além disso, instale as dependências necessárias:
 
 ```bash
-pip install -r requirements.txt
+pip install pandas numpy scikit-learn joblib
 ```
 
 ## Como Executar
