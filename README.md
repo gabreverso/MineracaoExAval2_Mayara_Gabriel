@@ -36,3 +36,8 @@ python joblibReader.py
 
 Isso carregará os modelos salvos e fará previsões com eles, exibindo os resultados no terminal.
 
+Para visualizar as matrizes de confusão, você pode executar o arquivo confusionMatrix.py:
+
+```bash
+python confusionMatrix.py
+```
